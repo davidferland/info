@@ -1,6 +1,6 @@
 # Project info
 
-Simple site to talk about myself. 
+About me.  
 
 ## Authors
 
