@@ -1,6 +1,6 @@
 # Project info
 
-About me.  
+Technical Refresh.   
 
 ## Authors
 
